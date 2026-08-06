@@ -4,6 +4,11 @@
 
 RulerX is a smart ruler which also acts as an NFC tag, allowing you to share you favourite websites and contact details with just a tap. This ruler has been designed with the intention of being given as a momento to the team at the GIIS Robotics Club.
 
+# Important Links
+
+- [RulerX/production/BOM.csv at main · Vasipallie/RulerX](https://github.com/Vasipallie/RulerX/blob/main/production/BOM.csv) BOM.CSV file
+-
+
 # Bill of Materials
 
 
