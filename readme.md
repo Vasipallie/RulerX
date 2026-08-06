@@ -7,7 +7,6 @@ RulerX is a smart ruler which also acts as an NFC tag, allowing you to share you
 # Important Links
 
 - [RulerX/production/BOM.csv at main · Vasipallie/RulerX](https://github.com/Vasipallie/RulerX/blob/main/production/BOM.csv) BOM.CSV file
--
 
 # Bill of Materials
 
