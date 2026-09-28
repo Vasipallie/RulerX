@@ -13,14 +13,14 @@ View the demo at [user-cdn.hackclub-assets.com/019f37bf-e643-794e-a864-747f67c83
 
 # Bill of Materials
 
-
-| ID | Name               | Designator | Footprint                                | Quantity | Manufacturer Part  | Manufacturer    | Supplier | Supplier Part | Price in USD ($) |
-| -- | ------------------ | ---------- | ---------------------------------------- | -------- | ------------------ | --------------- | -------- | ------------- | ---------------- |
-| 1  | NFC BUSINESS       | ANT1       | NFC ANTENNA                              | 1        |                    |                 |          |               |                  |
-| 2  | 220nF              | C1         | C0603                                    | 1        | CL10B224KB8NNNC    | SAMSUNG(三星)   | LCSC     | C64705        | 0.01             |
-| 3  | 47Ω               | R1         | R1206                                    | 1        | 1206 ±1% 47Ω     | VO(翔胜)        | LCSC     | C2889662      | 0.003            |
-| 4  | NT3H2111W0FHKH     | U1         | XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH | 1        | NT3H2111W0FHKH     | NXP(恩智浦)     | LCSC     | C710403       | 0.808            |
-| 5  | 19-21/GHC-YR1S2/4T | U2         | LED0603-R-RD                             | 1        | 19-21/GHC-YR1S2/4T | EVERLIGHT(亿光) | LCSC     | C2986048      | 0.026            |
+| Comment            | Designator | Footprint                                | JLCPCB Part # | Price (USD) |
+| ------------------ | ---------- | ---------------------------------------- | ------------- | ----------: |
+| NFC BUSINESS       | ANT1       | NFC ANTENNA                              | —             |           — |
+| 220nF              | C1         | C0603                                    | C64705        |      $0.010 |
+| 47Ω                | R1         | R1206                                    | C2889662      |      $0.003 |
+| NT3H2111W0FHKH     | U1         | XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH | C710403       |      $0.808 |
+| 19-21/GHC-YR1S2/4T | U2         | LED0603-R-RD                             | C2986048      |      $0.026 |
+| **TOTAL**          |            |                                          |               |  **$0.847** |
 
 # Schematic and PCB
 
